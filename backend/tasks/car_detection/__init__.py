@@ -1,0 +1,1 @@
+from tasks.car_detection.yolo.cardetection_yolo import YOLO
