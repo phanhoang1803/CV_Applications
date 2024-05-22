@@ -1,0 +1,4 @@
+from tasks.dog_classification.DogClassification import DogClassification
+from tasks.car_detection.CarDetection import CarDetection
+from tasks.edge_detection.EdgeDetection import EdgeDetection
+from tasks.face_recog.face_recog import FaceRecognition
